@@ -1,2 +1,2 @@
 # nds-save-batteries
-NDS save batteries
+Nintendo DS save batteries
